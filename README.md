@@ -10,7 +10,7 @@ This project is an attempt to distill those beautiful pixels into a font capable
 
 ## About this font
 
-This is a TrueType font containing 195 glyphs carefully designed to look exactly like the characters in Minecraft. Most Latin glyphs you'd use on a daily basis are here, along with a few extra glyphs like `☺` which are commonly used in the game.
+This is a TrueType font containing 195 glyphs carefully designed to look exactly like the characters in Minecraft. The font contains all the visible UTF-8 characters between U+0000 to U+00FF, which includes most Latin glyphs you'd use on a daily basis. I've also added a few extra glyphs like `☺` which are commonly used in the game.
 
 ![](images/glyphset.png)
 
@@ -36,11 +36,11 @@ After following the installation instructions up above, simply select the "Minec
 
 ### How were these characters generated?
 
-Each character was first copied by hand into [bitfontmaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/). The set was then exported using their built in bitmap to TTF converter, and from there the resultant .ttf files were opened in [FontForge](https://fontforge.org/en-US/) and properly scaled and modified. Unfortunately, bitfontmaker2 is not open source, otherwise it might've been possible to directly extract character information from the hundreds of sprites that make up the Minecraft font files.
+Each character was first copied by hand into [bitfontmaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/). The set was then exported using their built in bitmap to TTF converter, and from there the resultant .ttf files were opened in [FontForge](https://fontforge.org/en-US/) and properly scaled and modified.
 
 ### Why doesn't this font contain more characters?
 
-Each of these glyphs had to be copied over by hand as well as their bold equivalents, which takes time. The ASCII extended set contains most of the common latin characters you might use. If you have a specific glyph that you would like added to the font, you are free to create an issue though I make no promises that I will have the time to add it. In the future, someone smarter than me might make a script to directly convert the bitmap fonts stored as sprite sheets in Minecraft into modern vector fonts.
+Each of these glyphs had to be copied over by hand as well as their bold equivalents, which takes time. The font contains most of the common latin characters you might use, with a goal of containing all of the visible UTF-8 characters between U+0000 to U+00FF. If you have a specific glyph that you would like added to the font, you are free to create an issue, though I make no promises that I will have the time to add it. In the future, someone smarter than me might make a script to directly convert the bitmap fonts stored as sprite sheets in Minecraft into modern vector fonts.
 
 ### Is there a monospaced version?
 
