@@ -16,6 +16,8 @@ This is a TrueType font containing 195 glyphs carefully designed to look exactly
 
 What makes this different from other attempts at emulating the Minecraft bitmap font is that it takes into careful consideration how converting from a bitmap font to a TrueType font can affect metrics such as kerning, intended weight, and line height. Through a lot of experimenting, I've selected bounding metrics that best match the original look when rendered as a modern font.
 
+I've also added a bold version of each character that was designed using the methodology that Minecraft uses for bolding glyphs. Instead of just increasing the stroke weight like with a normal font, each character is widened and pixels are added so that one pixel becomes two side by side. The end result is game-accurate and only slightly unreadable!
+
 ## How to install
 
 ### Windows
