@@ -10,7 +10,7 @@ This project is an attempt to distill those beautiful pixels into a font capable
 
 ## About this font
 
-This is a TrueType font containing 195 glyphs carefully designed to look exactly like the characters in Minecraft. Most Latin glyphs you'd use on a daily basis are here, along with a few extra glyphs like ☺ which are commonly used in the game.
+This is a TrueType font containing 195 glyphs carefully designed to look exactly like the characters in Minecraft. Most Latin glyphs you'd use on a daily basis are here, along with a few extra glyphs like `☺` which are commonly used in the game.
 
 ![](images/glyphset.png)
 
