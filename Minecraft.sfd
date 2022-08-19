@@ -8,7 +8,7 @@ Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -152
 UnderlineWidth: 50
-Ascent: 896
+Ascent: 1024
 Descent: 128
 InvalidEm: 0
 sfntRevision: 0x00010000
@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1280473793
-ModificationTime: 1659905088
+ModificationTime: 1660928081
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -88,7 +88,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 15 12
+WinInfo: 15 15 12
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65539 195
@@ -96,6 +96,7 @@ BeginChars: 65539 195
 StartChar: .notdef
 Encoding: 65536 -1 0
 Width: 747
+VWidth: 1024
 GlyphClass: 1
 Flags: W
 TtInstrs:
@@ -165,6 +166,7 @@ EndChar
 StartChar: .null
 Encoding: 65537 -1 1
 Width: 0
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -173,6 +175,7 @@ EndChar
 StartChar: nonmarkingreturn
 Encoding: 65538 -1 2
 Width: 681
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -181,14 +184,16 @@ EndChar
 StartChar: space
 Encoding: 32 32 3
 Width: 512
+VWidth: 1024
 GlyphClass: 2
-Flags: WO
+Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: exclam
 Encoding: 33 33 4
 Width: 320
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -218,6 +223,7 @@ EndChar
 StartChar: quotedbl
 Encoding: 34 34 5
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -243,6 +249,7 @@ EndChar
 StartChar: numbersign
 Encoding: 35 35 6
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -296,6 +303,7 @@ EndChar
 StartChar: dollar
 Encoding: 36 36 7
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -352,6 +360,7 @@ EndChar
 StartChar: percent
 Encoding: 37 37 8
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -406,6 +415,7 @@ EndChar
 StartChar: ampersand
 Encoding: 38 38 9
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -470,6 +480,7 @@ EndChar
 StartChar: quotesingle
 Encoding: 39 39 10
 Width: 320
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -488,6 +499,7 @@ EndChar
 StartChar: parenleft
 Encoding: 40 40 11
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -528,6 +540,7 @@ EndChar
 StartChar: parenright
 Encoding: 41 41 12
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -568,6 +581,7 @@ EndChar
 StartChar: asterisk
 Encoding: 42 42 13
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -604,6 +618,7 @@ EndChar
 StartChar: plus
 Encoding: 43 43 14
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -636,6 +651,7 @@ EndChar
 StartChar: comma
 Encoding: 44 44 15
 Width: 320
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -654,6 +670,7 @@ EndChar
 StartChar: hyphen
 Encoding: 45 45 16
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -678,6 +695,7 @@ EndChar
 StartChar: period
 Encoding: 46 46 17
 Width: 320
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -694,6 +712,7 @@ EndChar
 StartChar: slash
 Encoding: 47 47 18
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -734,6 +753,7 @@ EndChar
 StartChar: zero
 Encoding: 48 48 19
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -796,6 +816,7 @@ EndChar
 StartChar: one
 Encoding: 49 49 20
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -834,6 +855,7 @@ EndChar
 StartChar: two
 Encoding: 50 50 21
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -895,6 +917,7 @@ EndChar
 StartChar: three
 Encoding: 51 51 22
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -955,6 +978,7 @@ EndChar
 StartChar: four
 Encoding: 52 52 23
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1004,6 +1028,7 @@ EndChar
 StartChar: five
 Encoding: 53 53 24
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1061,6 +1086,7 @@ EndChar
 StartChar: six
 Encoding: 54 54 25
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1117,6 +1143,7 @@ EndChar
 StartChar: seven
 Encoding: 55 55 26
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1160,6 +1187,7 @@ EndChar
 StartChar: eight
 Encoding: 56 56 27
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1226,6 +1254,7 @@ EndChar
 StartChar: nine
 Encoding: 57 57 28
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1282,6 +1311,7 @@ EndChar
 StartChar: colon
 Encoding: 58 58 29
 Width: 320
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1303,6 +1333,7 @@ EndChar
 StartChar: semicolon
 Encoding: 59 59 30
 Width: 320
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1326,6 +1357,7 @@ EndChar
 StartChar: less
 Encoding: 60 60 31
 Width: 704
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1372,6 +1404,7 @@ EndChar
 StartChar: equal
 Encoding: 61 61 32
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1409,6 +1442,7 @@ EndChar
 StartChar: greater
 Encoding: 62 62 33
 Width: 704
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1455,6 +1489,7 @@ EndChar
 StartChar: question
 Encoding: 63 63 34
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1502,6 +1537,7 @@ EndChar
 StartChar: at
 Encoding: 64 64 35
 Width: 960
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1571,6 +1607,7 @@ EndChar
 StartChar: A
 Encoding: 65 65 36
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1624,6 +1661,7 @@ EndChar
 StartChar: B
 Encoding: 66 66 37
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1683,6 +1721,7 @@ EndChar
 StartChar: C
 Encoding: 67 67 38
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1735,6 +1774,7 @@ EndChar
 StartChar: D
 Encoding: 68 68 39
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1788,6 +1828,7 @@ EndChar
 StartChar: E
 Encoding: 69 69 40
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1836,6 +1877,7 @@ EndChar
 StartChar: F
 Encoding: 70 70 41
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1876,6 +1918,7 @@ EndChar
 StartChar: G
 Encoding: 71 71 42
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1933,6 +1976,7 @@ EndChar
 StartChar: H
 Encoding: 72 72 43
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -1981,6 +2025,7 @@ EndChar
 StartChar: I
 Encoding: 73 73 44
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2017,6 +2062,7 @@ EndChar
 StartChar: J
 Encoding: 74 74 45
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2057,6 +2103,7 @@ EndChar
 StartChar: K
 Encoding: 75 75 46
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2112,6 +2159,7 @@ EndChar
 StartChar: L
 Encoding: 76 76 47
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2148,6 +2196,7 @@ EndChar
 StartChar: M
 Encoding: 77 77 48
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2201,6 +2250,7 @@ EndChar
 StartChar: N
 Encoding: 78 78 49
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2254,6 +2304,7 @@ EndChar
 StartChar: O
 Encoding: 79 79 50
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2309,6 +2360,7 @@ EndChar
 StartChar: P
 Encoding: 80 80 51
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2353,6 +2405,7 @@ EndChar
 StartChar: Q
 Encoding: 81 81 52
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2414,6 +2467,7 @@ EndChar
 StartChar: R
 Encoding: 82 82 53
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2469,6 +2523,7 @@ EndChar
 StartChar: S
 Encoding: 83 83 54
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2528,6 +2583,7 @@ EndChar
 StartChar: T
 Encoding: 84 84 55
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2564,6 +2620,7 @@ EndChar
 StartChar: U
 Encoding: 85 85 56
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2614,6 +2671,7 @@ EndChar
 StartChar: V
 Encoding: 86 86 57
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2666,6 +2724,7 @@ EndChar
 StartChar: W
 Encoding: 87 87 58
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2720,6 +2779,7 @@ EndChar
 StartChar: X
 Encoding: 88 88 59
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2784,6 +2844,7 @@ EndChar
 StartChar: Y
 Encoding: 89 89 60
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2828,6 +2889,7 @@ EndChar
 StartChar: Z
 Encoding: 90 90 61
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2884,6 +2946,7 @@ EndChar
 StartChar: bracketleft
 Encoding: 91 91 62
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2920,6 +2983,7 @@ EndChar
 StartChar: backslash
 Encoding: 92 92 63
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2960,6 +3024,7 @@ EndChar
 StartChar: bracketright
 Encoding: 93 93 64
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2996,6 +3061,7 @@ EndChar
 StartChar: asciicircum
 Encoding: 94 94 65
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3032,6 +3098,7 @@ EndChar
 StartChar: underscore
 Encoding: 95 95 66
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3056,6 +3123,7 @@ EndChar
 StartChar: grave
 Encoding: 96 96 67
 Width: 448
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3077,6 +3145,7 @@ EndChar
 StartChar: a
 Encoding: 97 97 68
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3125,6 +3194,7 @@ EndChar
 StartChar: b
 Encoding: 98 98 69
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3177,6 +3247,7 @@ EndChar
 StartChar: c
 Encoding: 99 99 70
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3225,6 +3296,7 @@ EndChar
 StartChar: d
 Encoding: 100 100 71
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3277,6 +3349,7 @@ EndChar
 StartChar: e
 Encoding: 101 101 72
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3327,6 +3400,7 @@ EndChar
 StartChar: f
 Encoding: 102 102 73
 Width: 704
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3366,6 +3440,7 @@ EndChar
 StartChar: g
 Encoding: 103 103 74
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3420,6 +3495,7 @@ EndChar
 StartChar: h
 Encoding: 104 104 75
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3468,6 +3544,7 @@ EndChar
 StartChar: i
 Encoding: 105 105 76
 Width: 320
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3497,6 +3574,7 @@ EndChar
 StartChar: j
 Encoding: 106 106 77
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3542,6 +3620,7 @@ EndChar
 StartChar: k
 Encoding: 107 107 78
 Width: 704
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3591,6 +3670,7 @@ EndChar
 StartChar: l
 Encoding: 108 108 79
 Width: 448
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3622,6 +3702,7 @@ EndChar
 StartChar: m
 Encoding: 109 109 80
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3670,6 +3751,7 @@ EndChar
 StartChar: n
 Encoding: 110 110 81
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3711,6 +3793,7 @@ EndChar
 StartChar: o
 Encoding: 111 111 82
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3758,6 +3841,7 @@ EndChar
 StartChar: p
 Encoding: 112 112 83
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3806,6 +3890,7 @@ EndChar
 StartChar: q
 Encoding: 113 113 84
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3854,6 +3939,7 @@ EndChar
 StartChar: r
 Encoding: 114 114 85
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3892,6 +3978,7 @@ EndChar
 StartChar: s
 Encoding: 115 115 86
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3944,6 +4031,7 @@ EndChar
 StartChar: t
 Encoding: 116 116 87
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -3979,6 +4067,7 @@ EndChar
 StartChar: u
 Encoding: 117 117 88
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4020,6 +4109,7 @@ EndChar
 StartChar: v
 Encoding: 118 118 89
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4064,6 +4154,7 @@ EndChar
 StartChar: w
 Encoding: 119 119 90
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4109,6 +4200,7 @@ EndChar
 StartChar: x
 Encoding: 120 120 91
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4165,6 +4257,7 @@ EndChar
 StartChar: y
 Encoding: 121 121 92
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4215,6 +4308,7 @@ EndChar
 StartChar: z
 Encoding: 122 122 93
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4261,6 +4355,7 @@ EndChar
 StartChar: braceleft
 Encoding: 123 123 94
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4301,6 +4396,7 @@ EndChar
 StartChar: bar
 Encoding: 124 124 95
 Width: 320
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4329,6 +4425,7 @@ EndChar
 StartChar: braceright
 Encoding: 125 125 96
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4369,6 +4466,7 @@ EndChar
 StartChar: asciitilde
 Encoding: 126 126 97
 Width: 960
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4404,6 +4502,7 @@ EndChar
 StartChar: uni00A0
 Encoding: 160 160 98
 Width: 192
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4412,6 +4511,7 @@ EndChar
 StartChar: exclamdown
 Encoding: 161 161 99
 Width: 320
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4441,6 +4541,7 @@ EndChar
 StartChar: cent
 Encoding: 162 162 100
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4493,6 +4594,7 @@ EndChar
 StartChar: sterling
 Encoding: 163 163 101
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4545,6 +4647,7 @@ EndChar
 StartChar: currency
 Encoding: 164 164 102
 Width: 1088
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4612,6 +4715,7 @@ EndChar
 StartChar: yen
 Encoding: 165 165 103
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4672,6 +4776,7 @@ EndChar
 StartChar: brokenbar
 Encoding: 166 166 104
 Width: 320
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4701,6 +4806,7 @@ EndChar
 StartChar: section
 Encoding: 167 167 105
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4772,6 +4878,7 @@ EndChar
 StartChar: dieresis
 Encoding: 168 168 106
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4793,6 +4900,7 @@ EndChar
 StartChar: copyright
 Encoding: 169 169 107
 Width: 1088
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4877,6 +4985,7 @@ EndChar
 StartChar: ordfeminine
 Encoding: 170 170 108
 Width: 704
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4921,6 +5030,7 @@ EndChar
 StartChar: guillemotleft
 Encoding: 171 171 109
 Width: 960
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -4982,6 +5092,7 @@ EndChar
 StartChar: logicalnot
 Encoding: 172 172 110
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5010,6 +5121,7 @@ EndChar
 StartChar: registered
 Encoding: 174 174 111
 Width: 1088
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5099,6 +5211,7 @@ EndChar
 StartChar: macron
 Encoding: 175 175 112
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5123,6 +5236,7 @@ EndChar
 StartChar: degree
 Encoding: 176 176 113
 Width: 704
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5162,6 +5276,7 @@ EndChar
 StartChar: plusminus
 Encoding: 177 177 114
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5207,6 +5322,7 @@ EndChar
 StartChar: uni00B2
 Encoding: 178 178 115
 Width: 704
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5253,6 +5369,7 @@ EndChar
 StartChar: uni00B3
 Encoding: 179 179 116
 Width: 704
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5303,6 +5420,7 @@ EndChar
 StartChar: acute
 Encoding: 180 180 117
 Width: 448
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5324,6 +5442,7 @@ EndChar
 StartChar: uni00B5
 Encoding: 181 181 118
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5367,6 +5486,7 @@ EndChar
 StartChar: paragraph
 Encoding: 182 182 119
 Width: 960
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5417,6 +5537,7 @@ EndChar
 StartChar: periodcentered
 Encoding: 183 183 120
 Width: 320
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5433,6 +5554,7 @@ EndChar
 StartChar: cedilla
 Encoding: 184 184 121
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5461,6 +5583,7 @@ EndChar
 StartChar: uni00B9
 Encoding: 185 185 122
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5491,6 +5614,7 @@ EndChar
 StartChar: ordmasculine
 Encoding: 186 186 123
 Width: 704
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5541,6 +5665,7 @@ EndChar
 StartChar: guillemotright
 Encoding: 187 187 124
 Width: 960
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5602,6 +5727,7 @@ EndChar
 StartChar: onequarter
 Encoding: 188 188 125
 Width: 1088
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5675,6 +5801,7 @@ EndChar
 StartChar: onehalf
 Encoding: 189 189 126
 Width: 1088
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5746,6 +5873,7 @@ EndChar
 StartChar: threequarters
 Encoding: 190 190 127
 Width: 1088
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5829,6 +5957,7 @@ EndChar
 StartChar: questiondown
 Encoding: 191 191 128
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5876,6 +6005,7 @@ EndChar
 StartChar: Agrave
 Encoding: 192 192 129
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -5914,11 +6044,11 @@ SplineSet
  640 128 l 1,30,-1
  640 0 l 1,31,-1
  512 0 l 1,0,-1
-256 1024 m 1,32,-1
+256 1024 m 5,32,-1
  256 1152 l 1,33,-1
  384 1152 l 1,34,-1
  384 1024 l 1,35,-1
- 256 1024 l 1,32,-1
+ 256 1024 l 5,32,-1
 512 768 m 1,36,-1
  384 768 l 1,37,-1
  256 768 l 1,38,-1
@@ -5939,6 +6069,7 @@ EndChar
 StartChar: Aacute
 Encoding: 193 193 130
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6002,6 +6133,7 @@ EndChar
 StartChar: Acircumflex
 Encoding: 194 194 131
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6070,6 +6202,7 @@ EndChar
 StartChar: Atilde
 Encoding: 195 195 132
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6143,6 +6276,7 @@ EndChar
 StartChar: Adieresis
 Encoding: 196 196 133
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6206,6 +6340,7 @@ EndChar
 StartChar: Aring
 Encoding: 197 197 134
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6276,6 +6411,7 @@ EndChar
 StartChar: AE
 Encoding: 198 198 135
 Width: 1344
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6349,6 +6485,7 @@ EndChar
 StartChar: Ccedilla
 Encoding: 199 199 136
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6408,6 +6545,7 @@ EndChar
 StartChar: Egrave
 Encoding: 200 200 137
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6466,6 +6604,7 @@ EndChar
 StartChar: Eacute
 Encoding: 201 201 138
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6524,6 +6663,7 @@ EndChar
 StartChar: Ecircumflex
 Encoding: 202 202 139
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6587,6 +6727,7 @@ EndChar
 StartChar: Edieresis
 Encoding: 203 203 140
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6645,6 +6786,7 @@ EndChar
 StartChar: Igrave
 Encoding: 204 204 141
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6691,6 +6833,7 @@ EndChar
 StartChar: Iacute
 Encoding: 205 205 142
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6737,6 +6880,7 @@ EndChar
 StartChar: Icircumflex
 Encoding: 206 206 143
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6788,6 +6932,7 @@ EndChar
 StartChar: Idieresis
 Encoding: 207 207 144
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6834,6 +6979,7 @@ EndChar
 StartChar: Eth
 Encoding: 208 208 145
 Width: 960
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6891,6 +7037,7 @@ EndChar
 StartChar: Ntilde
 Encoding: 209 209 146
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -6964,6 +7111,7 @@ EndChar
 StartChar: Ograve
 Encoding: 210 210 147
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7029,6 +7177,7 @@ EndChar
 StartChar: Oacute
 Encoding: 211 211 148
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7094,6 +7243,7 @@ EndChar
 StartChar: Ocircumflex
 Encoding: 212 212 149
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7164,6 +7314,7 @@ EndChar
 StartChar: Otilde
 Encoding: 213 213 150
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7239,6 +7390,7 @@ EndChar
 StartChar: Odieresis
 Encoding: 214 214 151
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7304,6 +7456,7 @@ EndChar
 StartChar: multiply
 Encoding: 215 215 152
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7360,6 +7513,7 @@ EndChar
 StartChar: Oslash
 Encoding: 216 216 153
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7417,6 +7571,7 @@ EndChar
 StartChar: Ugrave
 Encoding: 217 217 154
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7477,6 +7632,7 @@ EndChar
 StartChar: Uacute
 Encoding: 218 218 155
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7537,6 +7693,7 @@ EndChar
 StartChar: Ucircumflex
 Encoding: 219 219 156
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7602,6 +7759,7 @@ EndChar
 StartChar: Udieresis
 Encoding: 220 220 157
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7662,6 +7820,7 @@ EndChar
 StartChar: Yacute
 Encoding: 221 221 158
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7716,6 +7875,7 @@ EndChar
 StartChar: Thorn
 Encoding: 222 222 159
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7760,6 +7920,7 @@ EndChar
 StartChar: germandbls
 Encoding: 223 223 160
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7825,6 +7986,7 @@ EndChar
 StartChar: agrave
 Encoding: 224 224 161
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7883,6 +8045,7 @@ EndChar
 StartChar: aacute
 Encoding: 225 225 162
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -7941,6 +8104,7 @@ EndChar
 StartChar: acircumflex
 Encoding: 226 226 163
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8004,6 +8168,7 @@ EndChar
 StartChar: atilde
 Encoding: 227 227 164
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8072,6 +8237,7 @@ EndChar
 StartChar: adieresis
 Encoding: 228 228 165
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8130,6 +8296,7 @@ EndChar
 StartChar: aring
 Encoding: 229 229 166
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8198,6 +8365,7 @@ EndChar
 StartChar: ae
 Encoding: 230 230 167
 Width: 1344
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8273,6 +8441,7 @@ EndChar
 StartChar: ccedilla
 Encoding: 231 231 168
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8328,6 +8497,7 @@ EndChar
 StartChar: egrave
 Encoding: 232 232 169
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8388,6 +8558,7 @@ EndChar
 StartChar: eacute
 Encoding: 233 233 170
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8448,6 +8619,7 @@ EndChar
 StartChar: ecircumflex
 Encoding: 234 234 171
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8513,6 +8685,7 @@ EndChar
 StartChar: edieresis
 Encoding: 235 235 172
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8573,6 +8746,7 @@ EndChar
 StartChar: igrave
 Encoding: 236 236 173
 Width: 448
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8607,6 +8781,7 @@ EndChar
 StartChar: iacute
 Encoding: 237 237 174
 Width: 448
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8641,6 +8816,7 @@ EndChar
 StartChar: icircumflex
 Encoding: 238 238 175
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8680,6 +8856,7 @@ EndChar
 StartChar: idieresis
 Encoding: 239 239 176
 Width: 576
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8714,6 +8891,7 @@ EndChar
 StartChar: eth
 Encoding: 240 240 177
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8777,6 +8955,7 @@ EndChar
 StartChar: ntilde
 Encoding: 241 241 178
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8838,6 +9017,7 @@ EndChar
 StartChar: ograve
 Encoding: 242 242 179
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8895,6 +9075,7 @@ EndChar
 StartChar: oacute
 Encoding: 243 243 180
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8952,6 +9133,7 @@ EndChar
 StartChar: ocircumflex
 Encoding: 244 244 181
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -9014,6 +9196,7 @@ EndChar
 StartChar: otilde
 Encoding: 245 245 182
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -9081,6 +9264,7 @@ EndChar
 StartChar: odieresis
 Encoding: 246 246 183
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -9138,6 +9322,7 @@ EndChar
 StartChar: divide
 Encoding: 247 247 184
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -9172,6 +9357,7 @@ EndChar
 StartChar: oslash
 Encoding: 248 248 185
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -9221,6 +9407,7 @@ EndChar
 StartChar: ugrave
 Encoding: 249 249 186
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -9272,6 +9459,7 @@ EndChar
 StartChar: uacute
 Encoding: 250 250 187
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -9323,6 +9511,7 @@ EndChar
 StartChar: ucircumflex
 Encoding: 251 251 188
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -9379,6 +9568,7 @@ EndChar
 StartChar: udieresis
 Encoding: 252 252 189
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -9430,6 +9620,7 @@ EndChar
 StartChar: yacute
 Encoding: 253 253 190
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -9490,6 +9681,7 @@ EndChar
 StartChar: Euro
 Encoding: 8364 8364 191
 Width: 960
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -9554,6 +9746,7 @@ EndChar
 StartChar: smileface
 Encoding: 9786 9786 192
 Width: 832
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -9598,6 +9791,7 @@ EndChar
 StartChar: invsmileface
 Encoding: 9787 9787 193
 Width: 1088
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -9670,6 +9864,7 @@ EndChar
 StartChar: uni3000
 Encoding: 12288 12288 194
 Width: 2048
+VWidth: 1024
 GlyphClass: 2
 Flags: W
 LayerCount: 2
