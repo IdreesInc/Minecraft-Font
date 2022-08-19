@@ -20,11 +20,11 @@ What makes this different from other attempts at emulating the Minecraft bitmap 
 
 ### Windows
 
-Download the most recent `Minecraft.ttf` and `Minecraft-Bold.ttf` files from the [Releases]() page. Right click on the downloaded font files and select **Install**. You might need administrative access to install fonts, depending on your machine.
+Download the most recent `Minecraft.ttf` and `Minecraft-Bold.ttf` files from the [Releases](https://github.com/IdreesInc/Minecraft-Font/releases) page. Right click on the downloaded font files and select **Install**. You might need administrative access to install fonts, depending on your machine.
 
 ### Mac
 
-Download the most recent `Minecraft.ttf` and `Minecraft-Bold.ttf` files from the [Releases]() page. Double click on the downloaded font files and select **Install Font** in the window that appears. More help available [here](https://support.apple.com/en-us/HT201749).
+Download the most recent `Minecraft.ttf` and `Minecraft-Bold.ttf` files from the [Releases](https://github.com/IdreesInc/Minecraft-Font/releases) page. Double click on the downloaded font files and select **Install Font** in the window that appears. More help available [here](https://support.apple.com/en-us/HT201749).
 
 ## How to use
 
