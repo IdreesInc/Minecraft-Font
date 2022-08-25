@@ -3,11 +3,11 @@ FontName: Minecraft
 FullName: Minecraft
 FamilyName: Minecraft
 Weight: Medium
-Copyright: Idrees Hassan
+Copyright: IdreesHassan
 Version: 001.000
 ItalicAngle: 0
-UnderlinePosition: -152
-UnderlineWidth: 50
+UnderlinePosition: -128
+UnderlineWidth: 0
 Ascent: 1024
 Descent: 128
 InvalidEm: 0
@@ -15,14 +15,14 @@ sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
-XUID: [1021 384 -154929595 8534747]
+XUID: [1021 384 -154929595 12356680]
 StyleMap: 0x0040
 FSType: 0
-OS2Version: 1
+OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1280473793
-ModificationTime: 1660928081
+ModificationTime: 1661401683
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -42,18 +42,18 @@ HheadAscent: 896
 HheadAOffset: 0
 HheadDescent: -128
 HheadDOffset: 0
-OS2SubXSize: 665
-OS2SubYSize: 716
+OS2SubXSize: 640
+OS2SubYSize: 768
 OS2SubXOff: 0
-OS2SubYOff: 143
-OS2SupXSize: 665
-OS2SupYSize: 716
+OS2SubYOff: 128
+OS2SupXSize: 640
+OS2SupYSize: 768
 OS2SupXOff: 0
-OS2SupYOff: 490
-OS2StrikeYSize: 51
-OS2StrikeYPos: 265
+OS2SupYOff: 512
+OS2StrikeYSize: 0
+OS2StrikeYPos: 256
 OS2Vendor: '2ttf'
-OS2CodePages: 00000001.00000000
+OS2CodePages: 40000001.00000000
 OS2UnicodeRanges: 00000003.00014002.00000000.00000000
 MarkAttachClasses: 1
 DEI: 91125
@@ -64,7 +64,7 @@ EndShort
 ShortTable: maxp 16
   1
   0
-  195
+  196
   68
   10
   0
@@ -88,14 +88,14 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 15 15 12
+WinInfo: 0 30 12
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65539 195
+BeginChars: 65539 196
 
 StartChar: .notdef
 Encoding: 65536 -1 0
-Width: 747
+Width: 640
 VWidth: 1024
 GlyphClass: 1
 Flags: W
@@ -174,7 +174,7 @@ EndChar
 
 StartChar: nonmarkingreturn
 Encoding: 65538 -1 2
-Width: 681
+Width: 640
 VWidth: 1024
 GlyphClass: 2
 Flags: W
@@ -6044,11 +6044,11 @@ SplineSet
  640 128 l 1,30,-1
  640 0 l 1,31,-1
  512 0 l 1,0,-1
-256 1024 m 5,32,-1
+256 1024 m 1,32,-1
  256 1152 l 1,33,-1
  384 1152 l 1,34,-1
  384 1024 l 1,35,-1
- 256 1024 l 5,32,-1
+ 256 1024 l 1,32,-1
 512 768 m 1,36,-1
  384 768 l 1,37,-1
  256 768 l 1,38,-1
@@ -9861,8 +9861,45 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: heart
+Encoding: 9829 9829 194
+Width: 832
+VWidth: 1024
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+256 0 m 1,0,-1
+ 256 128 l 1,1,-1
+ 128 128 l 1,2,-1
+ 128 256 l 1,3,-1
+ 0 256 l 1,4,-1
+ 0 384 l 1,5,-1
+ 0 512 l 1,6,-1
+ 0 640 l 1,7,-1
+ 128 640 l 1,8,-1
+ 128 768 l 1,9,-1
+ 256 768 l 1,10,-1
+ 256 640 l 1,11,-1
+ 384 640 l 1,12,-1
+ 384 768 l 1,13,-1
+ 512 768 l 1,14,-1
+ 512 640 l 1,15,-1
+ 640 640 l 1,16,-1
+ 640 512 l 1,17,-1
+ 640 384 l 1,18,-1
+ 640 256 l 1,19,-1
+ 512 256 l 1,20,-1
+ 512 128 l 1,21,-1
+ 384 128 l 1,22,-1
+ 384 0 l 1,23,-1
+ 256 0 l 1,0,-1
+EndSplineSet
+EndChar
+
 StartChar: uni3000
-Encoding: 12288 12288 194
+Encoding: 12288 12288 195
 Width: 2048
 VWidth: 1024
 GlyphClass: 2
