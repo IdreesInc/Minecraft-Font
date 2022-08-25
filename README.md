@@ -12,8 +12,9 @@ This project is an attempt to distill those beautiful pixels into a font capable
 
 This is a TrueType font containing 195 glyphs carefully designed to look exactly like the characters in Minecraft. The font contains all the visible UTF-8 characters between U+0000 to U+00FF, which includes most Latin glyphs you'd use on a daily basis. I've also added a few extra glyphs like `☺` which are commonly used in the game.
 
-![](images/glyphset.png)
-![](images/glyphset-bold.png)
+Regular Weight             |  **Bold Weight**
+:-------------------------:|:-------------------------:
+| ![](images/glyphset.png) | ![](images/glyphset-bold.png) |
 
 What makes this different from other attempts at emulating the Minecraft bitmap font is that it takes into careful consideration how converting from a bitmap font to a TrueType font can affect metrics such as kerning, intended weight, and line height. Through a lot of experimenting, I've selected bounding metrics that best match the original look when rendered as a modern font.
 
