@@ -38,7 +38,7 @@ After following the installation instructions up above, simply select the "Minec
 
 ### How were these characters generated?
 
-Each character was first drafted by hand using [bitfontmaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/). The set was then exported using their built in bitmap to TTF converter, and from there the resultant .ttf files were opened in [FontForge](https://fontforge.org/en-US/) and cleaned up.
+The font was originally drafted by hand using [bitfontmaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/). The set was then exported using their built in bitmap to TTF converter, and from there the resultant .ttf files were cleaned up and updated in [FontForge](https://fontforge.org/en-US/). Every subsequent character addition should be done using FontForge, though bitfontmaker2 is still a good tool for drafting up designs.
 
 ### Why doesn't this font contain more characters?
 
