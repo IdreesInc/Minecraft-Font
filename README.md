@@ -20,6 +20,8 @@ Regular Weight             |  **Bold Weight**
 
 I've also added a bold version of each character that was designed with the same algorithm that Minecraft uses for bolding glyphs. Instead of just increasing the stroke weight like with a normal font, each character becomes thicker by shifting the pixels one pixel to the right and printing them overtop the original design. The end result is completely game-accurate and only mostly unreadable!
 
+If you like this font but think that it would look better monospaced and with unnecessary ligatures, check out [Minecraft Mono](https://github.com/IdreesInc/Minecraft-Mono)!
+
 ## How to install
 
 ### Windows
@@ -44,6 +46,6 @@ The font was originally drafted by hand using [bitfontmaker2](https://www.pentac
 
 Each of these glyphs had to be copied over by hand as well as their bold equivalents, which takes time. The font contains most of the common latin characters you might use, with a goal of containing all of the visible UTF-8 characters between U+0000 to U+00FF. If you have a specific glyph that you would like added to the font, you are free to create an issue, though I make no promises that I will have the time to add it. In the future, someone smarter than me might make a script to directly convert the bitmap fonts stored as sprite sheets in Minecraft into modern vector fonts.
 
-<!-- ### Is there a monospaced version?
+### Is there a monospaced version?
 
-Absolutely, check out [Minecraft Mono](https://github.com/IdreesInc/Minecraft-Mono) for a monospaced version with updated glyphs for better readability. -->
+Absolutely, check out [Minecraft Mono](https://github.com/IdreesInc/Minecraft-Mono) for a monospaced version with updated glyphs and ligatures.
