@@ -1,11 +1,5 @@
 # Minecraft Font
 
-![](images/in-game-screenshot.png)
-
-Let's face it, the font used in Minecraft is superior to anything that exists on your paltry computer. The elegant pixels, the unique spacing, and the almost unreadable punctuation all add to its pixelated charm. Why not add that font to your computer or phone and enjoy that Minecraft-y goodness wherever you are?
-
-This project is an attempt to distill those beautiful pixels into a font capable of running on your local device in any application that supports custom fonts. The font has been carefully recreated pixel-by-pixel, with great care given to the spacing and strokes to ensure that the font looks good in any application.
-
 ***Notice: This project is not affiliated with Minecraft or Mojang in any way and is exclusively a fan project. This font emulates the typeface of the font used in the Minecraft UI, but it does not include any assets or font files from the original game.***
 
 ## About this font
